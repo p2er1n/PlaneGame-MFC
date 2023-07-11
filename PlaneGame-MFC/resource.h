@@ -6,7 +6,6 @@
 #define IDD_SERVERCREATEDILOG           103
 #define IDB_PLAYER                      106
 #define IDB_NORMALENEMY                 108
-#define IDB_BK1                         113
 #define IDB_NORMALENEMYBULLET           114
 #define IDB_BITMAP1                     115
 #define IDB_NORMALPLAYERBULLET          115

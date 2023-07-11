@@ -123,13 +123,22 @@
     <Image Include="..\..\..\..\Downloads\完整PlaneGame-联机\PlaneGame\plane\enemy.bmp">
       <Filter>资源文件</Filter>
     </Image>
-    <Image Include="..\..\..\..\Downloads\bkgnd1.png">
-      <Filter>资源文件</Filter>
-    </Image>
     <Image Include="..\..\..\..\Downloads\完整PlaneGame\PlaneGame\plane\ball.BMP">
       <Filter>资源文件</Filter>
     </Image>
     <Image Include="..\..\..\..\Downloads\完整PlaneGame\PlaneGame\plane\bomb.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\player.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\enemy.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ball.BMP">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bomb.bmp">
       <Filter>资源文件</Filter>
     </Image>
   </ItemGroup>
